@@ -1,0 +1,13 @@
+.student {
+  width: 50%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.student-credentials {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 30%;
+}

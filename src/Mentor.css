@@ -1,0 +1,13 @@
+.mentor {
+  width: 50%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.mentor-credentials {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 30%;
+}
